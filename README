@@ -1,0 +1,13 @@
+#NOTAS
+Este es mi primer programa en Node js
+```
+Opciones:
+      --help     Muestra ayuda                                        [booleano]
+      --version  Muestra número de versión                            [booleano]
+  -b, --base     es la base de la tabla de multiplicar      [número] [requerido]
+  -l, --listar   se encarga de listar la tabla creada
+                                         [booleano] [requerido] [defecto: false]
+  -h, --hasta    indica que se establecera un limite hasta donde multiplicar
+                                                                        [número]
+
+```
